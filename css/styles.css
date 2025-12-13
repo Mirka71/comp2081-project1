@@ -2,3 +2,7 @@
 .carousel-control-next-icon{
     filter: invert(1);
 }
+
+div h1{
+  color: rgb(50, 48, 48);
+}
