@@ -12,3 +12,9 @@ div h1{
 h1, h2, h3, h4, h5, p{
   font-family: 'Merriweather', Arial, Helvetica, sans-serif;
 }
+
+/* Navbar- green link when hovering */
+.navbar .nav-link:hover{
+  color:rgb(9, 48, 18);
+  transition: color 0.3s ease;
+}
