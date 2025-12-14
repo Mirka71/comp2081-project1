@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 .carousel-control-prev-icon,
 .carousel-control-next-icon{
     filter: invert(1);
@@ -5,4 +6,9 @@
 
 div h1{
   color: rgb(50, 48, 48);
+}
+
+/* Google Font Merriweather */
+h1, h2, h3, h4, h5, p{
+  font-family: 'Merriweather', Arial, Helvetica, sans-serif;
 }
